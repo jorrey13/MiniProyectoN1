@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Mi Primer Pagina web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MiniProyecto"
+	}
+}
